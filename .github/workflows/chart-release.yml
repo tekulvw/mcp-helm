@@ -216,7 +216,7 @@ jobs:
 
       - name: Add MCP chart repository
         run: |
-          helm repo add mcp https://arbuzov.github.io/mcp-helm/
+          helm repo add mcp https://tekulvw.github.io/mcp-helm/
           helm repo update
 
       - name: Run chart-releaser

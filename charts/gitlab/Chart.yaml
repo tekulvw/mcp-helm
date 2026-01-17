@@ -29,5 +29,5 @@ version: 0.3.3
 dependencies:
   - name: mcp-library
     version: 0.1.4
-    repository: https://arbuzov.github.io/mcp-helm/
+    repository: https://tekulvw.github.io/mcp-helm/
 appVersion: "2.0.7"
